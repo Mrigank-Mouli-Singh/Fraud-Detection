@@ -3,7 +3,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18PbvB_Cyeo6qE-MrDtuY6S8DrMt1NL3l?usp=sharing)
 [![Python](https://img.shields.io/badge/Python–3.12-blue)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-GradientBoosting-green)](https://lightgbm.readthedocs.io/)
-[![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter-Tuning-orange)](https://optuna.org/)
+[![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter-Tuning-orange)]([https://optuna.org/](https://optuna.org/))
 
 ## Overview
 This project implements a **fraud detection system** using machine learning on a dataset of **6.3M+ transactions**, where only ~0.13% are fraudulent.  
